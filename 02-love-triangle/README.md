@@ -18,16 +18,3 @@ For example:
     There is love triangle.
   */
 ```
-
-Write your code in `src/index.js.
-*Be sure, that all tests are positive. That means you cannot catch any error in tests.*
-
-
-## Prepare and test
-
-- Install [Node.js](https://nodejs.org/en/)
-- Clone this repository: `git clone https://github.com/yankouskia/love-triangle.git`
-- Go to folder `love-triangle`
-- Run `npm install` in command line
-- Run `npm test` in command line
-- You will see the number of passing and failing tests
